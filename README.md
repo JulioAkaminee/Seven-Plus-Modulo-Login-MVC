@@ -10,4 +10,14 @@ O **Seven-Plus Módulo de Login MVC** é um módulo de autenticação de usuári
 - **Validação de Formulários**: Valida entradas do usuário em tempo real com JavaScript , jQuery e PHP.
 - **Interface Simples**: Fornece uma interface de usuário básica e funcional com HTML e CSS.
 
+## Requisitos
 
+- PHP 7.4 ou superior
+- Servidor Web (Apache, Nginx, etc.)
+- Banco de Dados MySQL (ou MariaDB)
+- Navegador com suporte a JavaScript e jQuery
+
+- ## Instalação
+
+1. **Clone o Repositório**
+2. 
