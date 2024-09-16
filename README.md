@@ -20,4 +20,6 @@ O **Seven-Plus Módulo de Login MVC** é um módulo de autenticação de usuári
 - ## Instalação
 
 1. **Clone o Repositório**
-2. 
+2. **Importe o banco de dados dbsevenplus_tii07.sql que está na pasta private/config/db**
+3. **Instale o xampp e inicie o servidor apache e MYSQL**
+4. **Execute a pasta publichtml do projeto**
